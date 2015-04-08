@@ -1,0 +1,5 @@
+E:\Workspaces\C#\练习\MyOrmText\MyOrmText\bin\Debug\MyOrmText.exe
+E:\Workspaces\C#\练习\MyOrmText\MyOrmText\bin\Debug\MyOrmText.pdb
+E:\Workspaces\C#\练习\MyOrmText\MyOrmText\obj\x86\Debug\MyOrmText.exe
+E:\Workspaces\C#\练习\MyOrmText\MyOrmText\obj\x86\Debug\MyOrmText.pdb
+E:\Workspaces\C#\练习\MyOrmText\MyOrmText\obj\x86\Debug\MyOrmText.csprojResolveAssemblyReference.cache
